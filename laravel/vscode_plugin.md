@@ -34,3 +34,17 @@ viewへ遷移
 
 # DotENV
 .envに色がつく
+
+# Highlight Matching Tag
+タグが見やすくなる
+
+
+# Remote - SSH
+ec2とかこれで入れる
+
+# Swagger Viewer
+swagger用
+
+# Markdown Preview Enhanced
+マークダウン用
+
