@@ -9,3 +9,6 @@ https://github.com/dokugaku-engineer/dokugaku-engineer
 
 # jsonable
 https://github.com/imdhemy/jsonable/blob/master/src/Jsonable.php
+
+# Laravel*Vue3
+https://github.com/aokitashipro/laravel_uCRM
